@@ -1,0 +1,4 @@
+*.tmp 
+*.bak 
+*AutoRecovery* 
+Thumbs.db 
